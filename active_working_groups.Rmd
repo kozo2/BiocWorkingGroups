@@ -70,9 +70,15 @@ please contact the group leader(s).
 
 - Description: The multiligual group is focused on translating and hosting
   Bioconductor material in multiple languages. Help is always appreciated!
-- Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
+  We are currently holding a Translation-a-thon every month.
+  Check out Bioconductor meetup.com groups
+  [meetup.com/boston-r-bioconductor-for-genomics](https://www.meetup.com/boston-r-bioconductor-for-genomics)
+  or [meetup.com/biocnyc](https://www.meetup.com/biocnyc/)
+  to join the Translation-a-thon.
+- Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [Crowdin](https://bioconductor.crowdin.com/), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
+- Slack: #documentation-translation
 - Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht
-- Current Members:
+- Current Members: Kozo Nishida, Xueyi Dong
 
 ## Package Review
 
@@ -129,3 +135,16 @@ expectations regarding personal data privacy.
 - Slack: #industry
 - Leads: Nicole Ortogero, David Henderson
 - Current Members: 
+
+## Calendar + Events
+
+- Description: The Event + Calendar group is focused on 
+  getting more people aware of Bioconductor community events.
+  By filling out the GitHub issue form with event information,
+  this group will update [bioconductor.org/help/events](https://bioconductor.org/help/events/) and [twitter.com/bioconductor](https://twitter.com/bioconductor) to let people know about community events.
+  We also support blog posts in [Bioconductor community blog](https://bioconductor.github.io/biocblog/)(optional).
+  This group is now automating the event advertisement workflow.
+- Links: [GitHub issue form (To view the form, you have to be signed in to GitHub)](https://github.com/BioconductorBoards/CABWorkingGroups/issues/new?assignees=kozo2&labels=event%2Ccalendar&template=EVENT-CALENDAR.yml&title=%5BEvent%5D%3A+REPLACE+ME+WITH+YOUR+EVENT+TITLE), [Bioconductor community blog](https://bioconductor.github.io/biocblog/)
+- Slack: #calendar-events
+- Leads: Kozo Nishida, Lori Shepherd
+- Current Members: Kozo Nishida, Lori Shepherd
